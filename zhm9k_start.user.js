@@ -5,6 +5,7 @@
 // @author      Tonyrykozhop
 // @match       https://sunflower-land.com/play/
 // @grant       none
+// @repo       https://github.com/Voopwraz/zhm9k_start
 // ==/UserScript==
 
 (function() {
